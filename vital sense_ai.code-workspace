@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "AI PREDECTIVE MAINTENANCE",
+			"path": "."
+		},
+		{
+			"name": "emf detector",
+			"path": "../emf detector"
+		}
+	],
+	"settings": {}
+}
